@@ -1,9 +1,9 @@
 /**
- * Restful endpoints for dealing with Catchpoint service.
+ * Restful endpoints for dealing with AWS CloudWatch Metric Streams.
  *
- * @author Yogesh Prasad Kurmi (ykurmi@vmware.com).
- * @version 1.0
- * @since 2020-04-01
+ * @author Yogesh Prasad Kurmi (yogeshprasadkurmi@gmail.com).
+ * @version 0.1
+ * @since 2021-05-25
  */
 package com.kinesis;
 

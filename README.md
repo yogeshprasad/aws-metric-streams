@@ -12,7 +12,7 @@ to any monitoring solutions.
 - Build the jar 
   `mvn clean install`
 - Start the application 
-  `java -jar target/kinesis-0.4-SNAPSHOT.jar`
+  `java -jar target/kinesis-0.1-SNAPSHOT.jar`
   
 ## How to Use
 Let say you have started this application and this is running at `http://192.134.20.31:8080`
